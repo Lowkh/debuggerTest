@@ -7,7 +7,7 @@ height = float(input('Enter height(m): '))
 
 bmi = weight / height
 
-print('BMI: ', bmi)
+print('BMI:  ', bmi)
 
 # Calculate BMR
 age = float(input('Enter age(years): '))
